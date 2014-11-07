@@ -14,4 +14,3 @@ Some scores for words:
 The Rank of: EVERYBODY is 67395
 The Rank of: QUERIES is 1395
 The Rank of: TYPEWRITER is 356915
- 
